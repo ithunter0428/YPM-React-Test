@@ -55,6 +55,10 @@ for (var i = 0; i < 10; i++) {
 
 
 # Result
+```
+npm install
+npm run start
+```
 
 ## Task1
 ![](https://raw.githubusercontent.com/ithunter101/YPM-React-Test/main/Screenshot.png)
