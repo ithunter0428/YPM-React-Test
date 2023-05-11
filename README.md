@@ -57,10 +57,12 @@ for (var i = 0; i < 10; i++) {
 # Result
 
 ## Task1
-![](https://raw.githubusercontent.com/ithunter101/YPM-React-Test/main/assets/Screenshot.png)
+![](https://raw.githubusercontent.com/ithunter101/YPM-React-Test/main/Screenshot.png)
 
 ## Task2
-for (var i = 0; i < 10; i++) {
+```
+for (var i = 0; i < 10; i++)
+{
   const button = document.createElement('button');
   button.textContent = Multiply by ${i};
   document.body.appendChild(button);
@@ -71,3 +73,4 @@ for (var i = 0; i < 10; i++) {
     }
   })(i);
 }
+```
